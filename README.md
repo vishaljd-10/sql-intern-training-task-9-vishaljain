@@ -1,8 +1,8 @@
-📘 SQL Subqueries with Departments – Internship Task
+
 📌 Overview
 
 This project focuses on understanding and implementing SQL subqueries using real-world employee and department data. The task demonstrates how subqueries work in different SQL clauses, how they compare with JOIN-based solutions, and how to debug common subquery-related errors. All queries are executed using MySQL / MariaDB (XAMPP – phpMyAdmin).
-
+---------------------------------------------------------------------------------------------------------
 🎯 Objectives
 
 Understand nested, correlated, and aggregate-based subqueries
@@ -18,8 +18,10 @@ Analyze execution flow of nested queries
 Identify scenarios where subqueries are unavoidable
 
 Practice debugging common SQL subquery errors
+---------------------------------------------------------------------------------------------------------
 
 🗂 Database Structure
+
 🔹 Employees Table
 
 emp_id (Primary Key)
@@ -37,6 +39,8 @@ dept_id (Primary Key)
 dept_name
 
 Employees are linked to departments using a foreign key relationship to ensure data integrity.
+---------------------------------------------------------------------------------------------------------
+
 
 🧪 Tasks Performed
 1️⃣ Added Department & Salary Data
@@ -89,6 +93,8 @@ Fixed “subquery returns more than one row” issues
 
 Resolved alias and scope-related errors
 
+---------------------------------------------------------------------------------------------------------
+
 🛠 Tools & Technologies
 
 MySQL / MariaDB
@@ -99,15 +105,7 @@ phpMyAdmin
 
 SQL (DDL & DML)
 
-✅ Key Learnings
-
-Clear understanding of how and when to use subqueries
-
-Ability to choose between JOINs and subqueries
-
-Improved debugging skills for SQL errors
-
-Strong foundation for interview-level SQL questions
+---------------------------------------------------------------------------------------------------------
 
 📌 Conclusion
 
